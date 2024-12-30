@@ -4,7 +4,7 @@
 
 ---
 
-### 👨‍🎓 Minha Jornada de Aprendizado
+### 👨‍🎓 Minha Formação e Especializações
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Wyden** (2023-2026), onde estou adquirindo habilidades em lógica de programação, desenvolvimento full-stack, redes, bancos de dados e gestão de projetos.  
 - 📘 Especializando-me em **Engenharia de Front-End** pela **EBAC** (2024-2025), com foco em criação de interfaces dinâmicas e responsivas.
