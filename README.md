@@ -30,12 +30,14 @@
 ### 📂 Projetos Recentes
 
  **[Projeto 1: Loja de Games](https://site-neongamestore.vercel.app/)**  
--  Loja Virtual de Games 
+-  Loja Virtual de Games:
+
   Projeto desenvolvido durante o módulo de **CSS** no curso de **Engenharia de Front-End** da **EBAC**. Neste projeto, criei uma loja virtual utilizando HTML5 e CSS3 para aprimorar minhas habilidades em design responsivo e boas práticas de front-end.  
   **Tecnologias usadas:** HTML5 + CSS3
   
 **[Projeto 2: Player de Música ](https://sunset-sound.vercel.app/)** 
--  Sunset Sound - Music Player
+-  Sunset Sound - Music Player:
+
   Interface interativa de música com background animado, que pode ser substituído por um vídeo em loop de um carro em movimento, funcionando também como uma alternativa à tela de descanso. Desenvolvido para aprimorar JavaScript, responsividade e transições visuais.
   **Tecnologias: HTML5 + CSS3 + JavaScript**
 
